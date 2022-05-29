@@ -8,6 +8,11 @@
     <artifactId>PGLComponent</artifactId>
     <version>1.0</version>
 
+    <name>${project.groupId}:${project.artifactId}</name>
+    <description>PGLComponent is a library that allows for easy inclusion of a Processing 3 3D OpenGL Sketch into a Swing/AWT application.</description>
+    <url>https://github.com/AlexanderSchuetz97/PGLJcomponent/tree/master</url>
+
+
     <licenses>
         <license>
             <name>GNU LESSER GENERAL PUBLIC LICENSE Version 2.1</name>
